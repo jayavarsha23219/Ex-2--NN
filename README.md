@@ -119,12 +119,13 @@ plt.show()
 ```
 
 # OUTPUT:
+![image](https://github.com/user-attachments/assets/0cb69e69-8908-4890-86a0-9d7e8dc8020c)
 #### Dataset
-![image](https://github.com/user-attachments/assets/100f4ab8-ee2c-49bf-b773-23ea4bdad13f)
+![image](https://github.com/user-attachments/assets/b77133e6-44a4-444a-90c8-1864450491c5)
 #### Scatterplot
-![image](https://github.com/user-attachments/assets/af5161b5-3b28-4e66-966b-d2c34ec6c919)
+![image](https://github.com/user-attachments/assets/acb16d7e-a6b2-40ab-b812-f8bda833477d)
 #### Errorplot and Accuracy
-![image](https://github.com/user-attachments/assets/ce434a20-2734-4757-9cfe-4499da410f0e)
+![image](https://github.com/user-attachments/assets/aa48bd8e-50eb-4541-9006-1667579c0a27)
 
 
 # RESULT:
