@@ -119,8 +119,11 @@ plt.show()
 ```
 
 # OUTPUT:
+#### Dataset
 ![image](https://github.com/user-attachments/assets/100f4ab8-ee2c-49bf-b773-23ea4bdad13f)
+#### Scatterplot
 ![image](https://github.com/user-attachments/assets/af5161b5-3b28-4e66-966b-d2c34ec6c919)
+#### Errorplot and Accuracy
 ![image](https://github.com/user-attachments/assets/ce434a20-2734-4757-9cfe-4499da410f0e)
 
 
